@@ -1,0 +1,20 @@
+ .btn1 {
+     /* display: inline-block; */
+     background-color: green;
+     color: azure;
+     font: inherit;
+     border: 1px solid blue;
+     padding: 8px;
+     cursor: pointer;
+    
+}
+
+.btn2 {
+    /* display: inline-block; */
+    background-color: brown;
+    color: azure;
+    font: inherit;
+    border: 1px solid blue;
+    padding: 8px;
+    cursor: pointer;  
+}
